@@ -1,16 +1,17 @@
-## Hi there 👋
+\
+# Hello there 👋
 
-<!--
-**1hp-Ronit/1hp-Ronit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-Here are some ideas to get you started:
+I Code to make Money    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🧐   Interested in full stack. Recent focus on Flutter.
+* 🎓   Pursuing B.Tech in Computer Engineering from Army Institute of Technology, Pune.
+* 🌱   Currently learning Linux, Rust, Solidity, Math & Philosophy.
+* 📚   Reading Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.
+* ⛵   Encouraging people for open source collaborations.
+
+
+
+
+
